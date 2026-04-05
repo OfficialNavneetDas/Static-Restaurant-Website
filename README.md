@@ -9,9 +9,21 @@ A sophisticated, static landing page designed for the modern culinary industry. 
 
 ## 📸 Interface Preview
 
-| Desktop View | Mobile View |
-| :--- | :--- |
-| ![Desktop Screenshot](path/to/your/desktop-image.jpg) | ![Mobile Screenshot](path/to/your/mobile-image.png) |
+<table>
+  <tr>
+    <td><b>Desktop View</b></td>
+    <td><b>Mobile View</b></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Screenshot (397).png" width="400"></td>
+    <td><img src="Screenshots/Screenshot (399).png" width="150"></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Screenshot (398).png" width="400"></td>
+    <td><img src="Screenshots/Screenshot (400).png" width="150"></td>
+  </tr>
+</table>
+
 
 ---
 
