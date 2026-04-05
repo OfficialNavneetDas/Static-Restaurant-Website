@@ -3,7 +3,7 @@
 A sophisticated, static landing page designed for the modern culinary industry. This project showcases a "mobile-first" approach to web design, ensuring a seamless user experience across all device architectures.
 
 ## 🚀 Live Demo
-[View the Live Site Here](https://your-github-username.github.io/your-repo-name/)
+[View the Live Site Here](https://officialnavneetdas.github.io/Static-Restaurant-Website/)
 
 ---
 
